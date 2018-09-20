@@ -1,0 +1,50 @@
+hh_id,person_id,tour_id,orig_purpose,dest_purpose,orig_maz,dest_maz,trip_mode,board_tap,alight_tap,orig_taz,dest_taz
+2133474,4246118,0,Home,Escort,361,53,Walk to premium transit,62916,63622,153,53
+2133474,4246118,0,Escort,work,53,20,Walk,0,0,53,20
+2133474,4246118,0,work,Visiting,20,255,Walk to premium transit,63990,60200,20,127
+2133474,4246118,0,Visiting,Home,255,361,Walk to premium transit,62550,62916,127,153
+2133474,4246119,0,Home,EatingOut,361,57,Walk to premium transit,62916,64195,153,57
+2133474,4246119,0,EatingOut,work,57,16,Walk,0,0,57,16
+2133474,4246119,0,work,Visiting,16,437,Walk to premium transit,64094,63191,16,172
+2133474,4246119,0,Visiting,Escort,437,436,Walk,0,0,172,172
+2133474,4246119,0,Escort,Home,436,361,Walk,0,0,172,153
+2133474,4246119,1,Home,work,361,16,Walk to premium transit,62916,64094,153,16
+2133474,4246119,1,work,Home,16,361,Shared ride 2 free,0,0,16,153
+1765449,3122147,0,Home,shop,1402,1450,Drive alone free,0,0,355,368
+1765449,3122147,0,shop,Home,1450,1402,Shared ride 2 free,0,0,368,355
+1765449,3122147,1,Home,maintenance,1402,1429,Drive alone free,0,0,355,362
+1765449,3122147,1,maintenance,Home,1429,1402,Drive alone free,0,0,362,355
+1765449,3122147,2,Home,visiting,1402,11223,Shared ride 2 free,0,0,355,1387
+1765449,3122147,2,visiting,Home,11223,1402,Drive alone pay,0,0,1387,355
+1765449,3122148,0,Home,Shop,1402,1432,Drive alone free,0,0,355,363
+1765449,3122148,0,Shop,shop,1432,1427,Drive alone free,0,0,363,361
+1765449,3122148,0,shop,Home,1427,1402,Drive alone free,0,0,361,355
+2031579,3861321,0,Home,discretionary,1908,6835,Shared ride 2 pay,0,0,468,990
+2031579,3861321,0,discretionary,Home,6835,1908,Drive alone free,0,0,990,468
+2031579,3861322,0,Home,work related,1908,191,Drive alone free,0,0,468,108
+2031579,3861322,0,work related,work,191,1798,Drive alone free,0,0,108,444
+2031579,3861322,0,work,Shop,1798,2130,Drive alone free,0,0,444,520
+2031579,3861322,0,Shop,Home,2130,1908,Drive alone free,0,0,520,468
+2031579,3861323,0,Home,school,1908,1630,Shared ride 2 free,0,0,468,410
+2031579,3861323,0,school,Home,1630,1908,Shared ride 2 free,0,0,410,468
+2031579,3861324,0,Home,school,1908,1614,Shared ride 3+ free,0,0,468,406
+2031579,3861324,0,school,Escort,1614,1733,Shared ride 3+ free,0,0,406,431
+2031579,3861324,0,Escort,Home,1733,1908,Shared ride 3+ free,0,0,431,468
+2031579,3861324,0,Home,escort,1908,1830,Shared ride 3+ free,0,0,468,452
+2031579,3861324,0,escort,Home,1830,1908,Shared ride 2 free,0,0,452,468
+2849821,6011579,0,Home,school,7193,16793,School bus,0,0,1013,1918
+2849821,6011579,0,school,Home,16793,7193,School bus,0,0,1918,1013
+2849821,6011579,1,Home,school,7193,16793,School bus,0,0,1013,1918
+2849821,6011579,1,school,Home,16793,7193,School bus,0,0,1918,1013
+2849821,6011580,0,Home,school,7193,10823,School bus,0,0,1013,1326
+2849821,6011580,0,school,Home,10823,7193,School bus,0,0,1326,1013
+3403558,8012649,0,Home,maintenance,16760,16762,Shared ride 2 free,0,0,1885,1887
+3403558,8012649,0,maintenance,Home,16762,16760,Shared ride 2 free,0,0,1887,1885
+3403558,8012650,0,Home,work related,16760,3076,Drive alone free,0,0,1885,709
+3403558,8012650,0,work related,work,3076,3441,Drive alone free,0,0,709,776
+3403558,8012650,0,work,work related,3441,3045,Shared ride 2 free,0,0,776,701
+3403558,8012650,0,work related,Home,3045,16760,Shared ride 2 free,0,0,701,1885
+3403558,8012651,0,Home,work,16760,16776,Shared ride 2 free,0,0,1885,1901
+3403558,8012651,0,work,Home,16776,16760,Drive alone free,0,0,1901,1885
+3403558,8012651,0,Home,school,16760,16765,Drive alone free,0,0,1885,1890
+3403558,8012651,0,school,Home,16765,16760,Shared ride 2 free,0,0,1890,1885

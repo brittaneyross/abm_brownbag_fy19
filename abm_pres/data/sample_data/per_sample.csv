@@ -1,0 +1,16 @@
+hh_id,person_id,person_num,age,gender,type
+2133474,4246118,1,19,f,Full-time worker
+2133474,4246119,2,20,m,Full-time worker
+1765449,3122147,1,63,f,Part-time worker
+1765449,3122148,2,72,m,Retired
+2031579,3861321,1,41,f,Non-worker
+2031579,3861322,2,43,m,Full-time worker
+2031579,3861323,3,13,f,Student of non-driving age
+2031579,3861324,4,9,m,Student of non-driving age
+2849821,6011577,1,41,f,Full-time worker
+2849821,6011578,2,18,f,Full-time worker
+2849821,6011579,3,14,f,Student of non-driving age
+2849821,6011580,4,12,m,Student of non-driving age
+3403558,8012649,1,64,m,Full-time worker
+3403558,8012650,2,58,f,Full-time worker
+3403558,8012651,3,16,m,Student of driving age

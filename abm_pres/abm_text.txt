@@ -1,0 +1,43 @@
+What is an activity based model? 
+* Travel demand model that similulates individual and household transportation decisions  
+
+* Similar to 4 step model:
+**generates activities, identifies destinations for activities, determines mode of travel, and assigns routes on our network
+
+* considers personal and household attributes to represent decisions resulting in:
+	the types of activities they participate in
+	the member(s) of the household participating in an activity
+	where to participate in the activity
+	how activities are scheduled/prioritized 
+	the time available to participate in those activies 
+	the mode of travel reach each activity
+
+* allows for behaviorally realistic representation of travel compared to the 4-step model
+
+
+Why use an activity based model? 
+
+*Behavioral advantages
+* Each Traveler’s Personal Attributes Inform Unique Travel Choices, making the model more sensitive to planning strategies and policies.
+	*how an individual budgets time for activies and travel throughout the day 
+	*carpooling, transit access, tolling etc
+
+*Each Traveler Can Be Identified Throughout Similuation
+	*works at the disaggregate person level rather than the aggregate zonal-level
+	*the model can be used to analyze the travel patterns of a wide range of socioeconomic groups
+	* creating detailed metrics on how travel benefits or disbenefits impact differenct populations, which
+	can be used to support inclusive growth. 
+	Example segmenting distance metrics by socioeconomic groups - Investment
+	How far are people traveling to get to work, school, maintaince activities
+	*average trip distance to activities ecd vs population
+
+*Evaluteing Travel Patterns
+*Travel Is Organized Into Tours and Trips
+	Travel for each individual represented in tour, a chain of trips, to generate daily activity pattern
+	portrays how trips are organized and the modal decisions made by the person during a trip
+	activity purpose, and mode segmenation
+	
+	example of activity patterns ecd vs non ecd
+	mode of choice characteristics for activies 
+	
+
